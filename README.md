@@ -10,4 +10,7 @@ and extended the reference setup by systematically comparing three different con
 The repo includes code and results that show how full-rank and low-rank networks can reach similarly high behavioral accuracy while 
 relying on markedly different internal computational structures and interpretability.
 
+Full abstract: [XOR_TASK Abstract (1)].mdm(./XOR_TASK Abstract (1).md)
+
+
 
